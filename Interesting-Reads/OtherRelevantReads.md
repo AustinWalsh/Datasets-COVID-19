@@ -2,9 +2,6 @@
 
 **Summary**: This file is a listing of other interesting links and considerations when working with COVID-19 data. This includes both functional and technical considerations ranging from ethics to other scientific and medical considerations.
 
-
-**Uniqueness**: Very
-
 **Links**:
 
 **10 considerations before you create another chart about COVID-19**<br />
