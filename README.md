@@ -5,4 +5,7 @@ This repo will is structured as a single master with the option of either provid
 
 Markdown file format for submissions can be found here. Simply cut and paste the content an add your references.
 
+Contributions: Please feel to fork this repo, create new md files, anyone can contributes, please follow all license guidelines. You are welcome to join my project, feel free to request to become a collaborator.
+
+
 NOTE: The information, links, and data provided here are simply of reference of available resources and subject to the data use agreements from their source location. Please cite the source  
