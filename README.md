@@ -1,6 +1,8 @@
 # Datasets-COVID-19
-This github repository is provided for to make it easier for people to find data that can be used for informatics projects. This is not goal of this repo is to serve as a way to easily distribute and crowdsource available information so informaticists and data scientists can quickly find and work with datasets.
+This github repo is designed to make it easier for people to find structured data about COVID-19. All are open to contribute to the resources referenced here. This is meant to serve as a way to easily distribute data and crowdsource available information so informaticists and data scientists can quickly find relevant datasets (structured, semi-structured, natural language, etc).
 
 This repo will is structured as a single master with the option of either providing summary and link to available information, or natively provide the files for use. Please note that data use agreements that apply to the available information and be sure to cite the source from which you aquired the information. 
 
-<iframe src="https://coronavirus.jhu.edu/us-map" width="900" height="780" style="border: none;"></iframe>
+Markdown file format for submissions can be found here. Simply cut and paste the content an add your references.
+
+NOTE: The information, links, and data provided here are simply of reference of available resources and subject to the data use agreements from their source location. Please cite the source  
