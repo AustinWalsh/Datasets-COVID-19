@@ -1,6 +1,6 @@
 **Name**: Other Interesting Reads
 
-**Summary**: This file is a listing of other interesting links and considerations when working with COVID-19 data. This includes both functional and technical considerations ranging from ethics to other scientific and medical considerations.
+**Summary**: This file is a listing of other interesting links and considerations when working with COVID-19 data. This includes both functional and technical considerations ranging from ethics to other scientific and medical considerations. Notable citation to the Top 50 R resources article linked below.
 
 **Links**:
 
@@ -15,3 +15,5 @@ https://www.r-bloggers.com/tidying-the-john-hopkins-covid-19-data/<br />
        Note: the path to the JHU datasets used in this article has been deprecated and would required rework given the new datastructure.<br />
 Tidy format has been done by RamiKrispin found in the Datasets folder in this repo or [directly linked here](https://github.com/RamiKrispin/coronavirus-csv)<br />
 
+**Analysing COVID-19 (2019-nCoV) outbreak data with R - part 1**
+https://timchurches.github.io/blog/posts/2020-02-18-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-1/
