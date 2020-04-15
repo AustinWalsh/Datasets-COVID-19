@@ -12,6 +12,7 @@ https://www.dartmouthatlas.org/covid-19/
 
 https://atlasdata.dartmouth.edu/
 
+
 **Uniqueness:** High
 
 **Data Use / Access:** very easy to access and can make your own dataset with query builder type tool 
