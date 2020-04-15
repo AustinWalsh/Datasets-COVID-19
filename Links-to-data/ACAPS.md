@@ -1,7 +1,7 @@
 
 **Name:** ACAPS csv data file
 
-**Summary:**
+**Summary:** 
 Who is ACAPS
 ACAPS is an independent information provider, free from the bias or vested interests of a specific enterprise, sector, or region. As independent specialists in humanitarian needs analysis and assessment, we are not affiliated to the UN or any other organisation. This helps guarantee that the ACAPS analysis is objective and evidence-based. <_br>
 
