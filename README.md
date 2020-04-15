@@ -12,7 +12,7 @@ This repo will is structured as a single master with three main directories: <br
 
 Much of the information here is simply presented in a new form from the articles/links cited. Acknowledgements to those who have done the heavy lifting to get the data in place and maintain. <br />
 
-**Contributions: Please feel to fork this repo, create new md files, anyone can contributes, please follow all license guidelines. You are welcome to join my project, feel free to request to become a collaborator.**<br /> Data-sites are the most useful for contributions and could help promote your project and data.
+**Contributions: Please feel to fork this repo, create new md files, anyone can contribute, please follow all license guidelines. You are welcome to join my project, feel free to request to become a collaborator.**<br /> Data-sites are the most useful for contributions and could help promote your project and data.
 
 Formatting for contributions are requested to be consistent with the general structure of the md files. Feel free to suggest better ways, but, title, summary, links, data use, etc are core to this objective of this project.<br />
 
