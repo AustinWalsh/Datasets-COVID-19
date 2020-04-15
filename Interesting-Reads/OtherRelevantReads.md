@@ -17,6 +17,9 @@ https://www.r-bloggers.com/tidying-the-john-hopkins-covid-19-data/<br />
        Note: the path to the JHU datasets used in this article has been deprecated and would required rework given the new datastructure.<br />
 Tidy format has been done by RamiKrispin found in the Datasets folder in this repo or [directly linked here](https://github.com/RamiKrispin/coronavirus-csv)<br />
 
+**Stats by Jim Article**
+https://statisticsbyjim.com/basics/coronavirus/
+
 **Analysing COVID-19 (2019-nCoV) outbreak data with R - part 1**
 https://timchurches.github.io/blog/posts/2020-02-18-analysing-covid-19-2019-ncov-outbreak-data-with-r-part-1/
 
