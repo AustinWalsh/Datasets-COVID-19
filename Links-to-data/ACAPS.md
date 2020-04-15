@@ -1,19 +1,5 @@
 
-**Name:** Johns Hopkins CSS COVID-19 GitHub Repo
-
-**Summary:** 
-This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
-
-**Links:** 
-https://www.acaps.org/covid19-government-measures-dataset
-
-**Data Use / Access:** 
-
-**Referenced Data Sources in this set:** please see details on provided links
-
-**DATA:** Here is a [direct link to the data in xlsx format]
-
-https://www.acaps.org/covid19-government-measures-dataset
+**Name:** ACAPS csv data file
 
 **Summary:**
 Who is ACAPS
@@ -33,3 +19,16 @@ Lockdowns <_br>
 Each category is broken down into several types of measures.
 
 ACAPS consulted government, media, United Nations, and other organisations sources.
+
+
+**Links:** 
+https://www.acaps.org/covid19-government-measures-dataset
+
+**Data Use / Access:** 
+
+**Referenced Data Sources in this set:** please see details on provided links
+
+**DATA:** Here is a [direct link to the data in xlsx format]
+
+
+
