@@ -1,4 +1,4 @@
-**Datasets-COVID-19** <_br>
+**Datasets-COVID-19** <br />
 
 This github repo is designed to make it easier for people to find structured data about COVID-19. All are open to contribute to the resources referenced here. This is meant to serve as a way to easily distribute data and crowdsource available information so informaticists and data scientists can quickly find relevant datasets (structured, semi-structured, natural language, etc).
 
