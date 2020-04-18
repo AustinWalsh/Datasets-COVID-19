@@ -6,7 +6,10 @@ The Citymapper Mobility Index is calculated by comparing trips planned in the Ci
 Our users are public transport users and also use us for walking, cycling, and some micromobility and cabs. We are not used for driving. We do not track the demographics of our users. We have enough data in our published cities to be confident that it represents a real change in behaviour. However, it is a sample set of general mobility and may not represent the real world exactly.
 
 **Links:** 
-https://citymapper.com/cmi/about < br/>
+https://citymapper.com/cmi/about 
+
+Credits to : https://towardsdatascience.com/how-citymapper-data-highlights-the-covid-19-response-of-different-cities-fd30d51b0d9c
+< br/>
 
 Note I am also posting the downloadable data set in the 'Datasets' directory so people can explore the structure, but please remember to download current data and cite.
 < br/>
