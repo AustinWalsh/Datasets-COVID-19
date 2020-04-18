@@ -1,4 +1,5 @@
-**Name:** Cognitive City aka Covid-City
+**Name:** Cognitive City aka Covid-City< br/>
+
 **Summary:**
 This is a vast and amazing catalogue of COVID Resources!
 
