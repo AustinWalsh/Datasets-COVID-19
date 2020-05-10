@@ -4,6 +4,19 @@
 ==========================<br />
 **Dashboard and other Data Reference Sites**<br />
 ==========================<br />
+
+**The essentials: CDC, NIH, WHO and a few others**<br />
+https://www.nih.gov/health-information/coronavirus
+
+https://www.cdc.gov/coronavirus/2019-nCoV/index.html
+
+https://www.who.int/health-topics/coronavirus
+
+https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx
+
+https://www.doh.wa.gov/Emergencies/Coronavirus
+
+
 **Top 50 R resources on Novel COVID-19 Coronavirus**<br />
 https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f
 
